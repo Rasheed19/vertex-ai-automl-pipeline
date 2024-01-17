@@ -1,0 +1,4 @@
+google-cloud-aiplatform[preview,autologging]
+pandas
+scikit-learn
+python-dotenv
